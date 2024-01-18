@@ -1,0 +1,72 @@
+{
+  "title":"Quem você seria em Sandman?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é seu principal hobby?",
+      "options":[
+        {"id": 1, "name":"Me arrumar para sair.", "alias":"D"},
+        {"id": 2, "name":"Assistir filmes e jogar.", "alias":"M"},
+        {"id": 3, "name":"Dormir.", "alias":"S"},
+        {"id": 4, "name":"Beber.", "alias":"X"},
+        {"id": 5, "name":"Ler livros.", "alias":"T"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual sua estação do ano favorita?",
+      "options":[
+        {"id": 1, "name":"Primavera", "alias":"D"},
+        {"id": 2, "name":"Inverno", "alias":"M"},
+        {"id": 3, "name":"Outono", "alias":"S"},
+        {"id": 4, "name":"Verão", "alias":"X"},
+        {"id": 5, "name":"Tanto faz", "alias":"T"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Como você lida com o rancor?",
+      "options":[
+        {"id": 1, "name":"Finjo que esqueço, mas arquiteto vingança.", "alias":"D"},
+        {"id": 2, "name":"Não esqueço, nem perdôo.", "alias":"M"},
+        {"id": 3, "name":"Perdôo, mas não esqueço.", "alias":"S"},
+        {"id": 4, "name":"Não preciso lidar, acabo com tudo assim que posso.", "alias":"X"},
+        {"id": 5, "name":"Perdôo, eventualmente esqueço.", "alias":"T"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Pensando em sua personalidade, qual dessas seria uma de suas características?",
+      "options":[
+        {"id": 3, "name":"Melancolia", "alias":"S"},
+        {"id": 4, "name":"Determinação", "alias":"X"},
+        {"id": 5, "name":"Inteligência", "alias":"T"},
+        {"id": 1, "name":"Ambição", "alias":"D"},
+        {"id": 2, "name":"Paciência", "alias":"M"},
+        {"id": 5, "name":"Sabedoria", "alias":"T"},
+        {"id": 2, "name":"Coragem", "alias":"M"},
+        {"id": 3, "name":"Criatividade", "alias":"S"},
+        {"id": 4, "name":"Sinceridade", "alias":"X"},
+        {"id": 1, "name":"Beleza", "alias":"D"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual frase combina mais com você?",
+      "options":[
+        {"id": 1, "name":"Não há obstáculos que possam impedir de alcançar o que quero.", "alias":"D"},
+        {"id": 2, "name":"O que faz tudo valer é o tempo que não notamos passar.", "alias":"M"},
+        {"id": 3, "name":"Costumo errar, mas não convivo com o arrependimento de não tentar.", "alias":"S"},
+        {"id": 4, "name":"O fim antecede um novo começo.", "alias":"X"},
+        {"id": 5, "name":"A nossa vida não é nossa. Estamos ligados a outros, e a cada bondade e crime, moldamos nosso futuro.", "alias":"T"}
+      ]
+    }
+  ],
+  "results":{
+    "D": "Desejo",
+    "M": "Morte",
+    "S": "Sonho",
+    "X": "Destruição",
+    "T": "Destino"
+  }
+}

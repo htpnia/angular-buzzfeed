@@ -16,7 +16,7 @@
 <p></p>
 </div>
 <p align="center" >
-Welcome to my <b>BuzzFeed</b> quizz.</p>
+Welcome to my <b>BuzzFeed</b> Sandman quizz.</p>
 <p align="center">This project was made during <b>Digital Innovation One Java+Angular Bootcamp.</b>
 </p>
 <div align="center">
